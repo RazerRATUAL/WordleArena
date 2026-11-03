@@ -1,4 +1,4 @@
-# Wordle Arena — Full-Stack Worlde Clone
+# Wordle Arena | Full-Stack Worlde Clone
 
 [![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Material UI](https://img.shields.io/badge/UI-Material--UI_v5-007FFF?logo=mui&logoColor=white)](https://mui.com/)
